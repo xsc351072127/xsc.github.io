@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+你好
+这是XSC的博客
+
